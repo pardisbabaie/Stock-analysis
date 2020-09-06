@@ -14,3 +14,7 @@ The year over year return however shows a significant drop in the return of most
 <img width="248" alt="Screen Shot 2020-09-06 at 10 57 15 AM" src="https://user-images.githubusercontent.com/69806770/92329947-0e2f3b80-f039-11ea-8be5-ee577dadc6c4.png">
 
 ### Analysis of script execution times
+The refactored code script execution time of both years has significantly decreased from the execution time of the original scirpt as the original script would have to run through the code 12 times to capture all the total daily volumes for the 12 ticker arrays. The refactored code only needs to run through the data once to give the same results which significantly reduces the code running time as shown:
+#### 2017 Original vs Refactored Script Execution times
+
+
