@@ -21,6 +21,6 @@ The refactored code script execution time of both years has significantly decrea
 ##### Refactored Script 2017
 <img width="431" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69806770/92330350-22286c80-f03c-11ea-9276-b156b157431c.png">
 ##### Original Script 2018
-
+<img width="425" alt="Screen Shot 2020-09-06 at 12 11 18 PM" src="https://user-images.githubusercontent.com/69806770/92330393-93681f80-f03c-11ea-938f-8d6d9b666b24.png">
 ##### Refactored Script 2018
 
