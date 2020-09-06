@@ -18,9 +18,15 @@ The refactored code script execution time of both years has significantly decrea
 #### Original vs Refactored Script Execution times
 ##### Original Script 2017
 <img width="429" alt="Screen Shot 2020-09-06 at 12 11 42 PM" src="https://user-images.githubusercontent.com/69806770/92330325-fe652680-f03b-11ea-97dd-175e8f839230.png">
+
 ##### Refactored Script 2017
 <img width="431" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69806770/92330350-22286c80-f03c-11ea-9276-b156b157431c.png">
+
 ##### Original Script 2018
+
 <img width="425" alt="Screen Shot 2020-09-06 at 12 11 18 PM" src="https://user-images.githubusercontent.com/69806770/92330393-93681f80-f03c-11ea-938f-8d6d9b666b24.png">
+
 ##### Refactored Script 2018
+
+<img width="433" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69806770/92330446-d6c28e00-f03c-11ea-9b78-13df813d67e9.png">
 
