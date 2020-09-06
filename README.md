@@ -30,3 +30,6 @@ The refactored code script execution time of both years has significantly decrea
 
 <img width="433" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69806770/92330446-d6c28e00-f03c-11ea-9b78-13df813d67e9.png">
 
+## Summary
+There are definite advantages in refactoring code as it provides a baseline of code that you can improve upon. This allows for the existing code to be made more efficient both in number of steps and ultimately the script run time. However, one of the disadvantages is that if the initial code we are working off of was not formatted properly it can make it more difficult to refactor. Also, for beginner coders the process of refactoring requires thinking in a different way about the code which is a challenging process.
+The advantages of refactoring the VBA challenege code is that it runs much more efficiently only having to run trhoguh the script once instead of the 12 times the original script had to run. It also avoids having to use a nested loop which can make the script more complicated. The disadvantages of refactoring this code are only that working off the original code can pose the potential for more bugs within your data source and you have to go through the process of debugging so that the code can run correctly. 
